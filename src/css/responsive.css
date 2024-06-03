@@ -1,0 +1,7 @@
+@media(max-width: 480px){
+
+    .advice-box{
+        max-width: 350px;
+        padding: 40px 15px;
+    }
+}
