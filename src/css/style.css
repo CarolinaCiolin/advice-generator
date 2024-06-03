@@ -27,7 +27,7 @@ main{
     gap: 20px;
 }
 
-.advice-box > h2{
+.advice-box > h1{
     font-size: 10px;
     letter-spacing: 4px;
     color: hsl(150, 100%, 66%);

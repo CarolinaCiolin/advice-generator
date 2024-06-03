@@ -27,6 +27,7 @@ Users should be able to:
 
 ### Links
 
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-card-using-flexbox-and-media-query-H4HKTS2mvF)
 - [Live Site URL](https://carolinaciolin.github.io/advice-generator/)
 
 ### Built with
